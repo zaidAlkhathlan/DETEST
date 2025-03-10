@@ -1,1 +1,6 @@
-fastapi[all]
+fastapi
+uvicorn
+joblib
+scikit-learn
+pydantic
+numpy
